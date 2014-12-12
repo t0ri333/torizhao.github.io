@@ -1,0 +1,56 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.block {
+    padding:20px 0
+}
+
+.hero-unit {
+    background-color:#4A90E2;
+    background-image:url(img/bg.jpg) no-repeat center center;
+    background-size:100% auto;
+    color:#fff
+}
+
+p {
+    font-family:'Lora',serif;
+    margin-bottom:30px;
+    letter-spacing:.01rem;
+    font-weight:400;
+    font-style:normal;
+    font-size:22px;
+    line-height:1.5
+}
+
+.row {
+    margin-bottom:50px;
+    padding-bottom:50px;
+    border-bottom:1px solid #D1D1D1
+}
+
+/*.container.content {
+	background-color: #55DFAA;
+}
+
+body {
+	background-color: #55DFAA;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
